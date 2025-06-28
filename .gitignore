@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Gulp output
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Сторінки GitHub (якщо зберігаєш окрему гілку)
+gh-pages/
+
+# Кеш браузера Sync
+.browsersync-cache/
